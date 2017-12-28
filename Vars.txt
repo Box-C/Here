@@ -1,0 +1,4 @@
+CASH = getInVehicles
+BANK = getOutVehicle
+life_cash = life_pulloutallplayers
+life_bank = life_getinvehicle
